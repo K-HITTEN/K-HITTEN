@@ -1,5 +1,8 @@
 <div align = "center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hyunwoo's%20Github!&height=150&fontSize=60&desc=K-HITTEN&descAlignY=75&descAlign=60" />	
+
+  [![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-HITTEN)](https://github.com/K-HITTEN/github-readme-stats)
+  
 <h3>✨ Link ✨</h3>
 <hr>
 <a href="https://github.com/K-HITTEN" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
