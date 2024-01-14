@@ -20,6 +20,6 @@ Link
 <hr>
 Stack
 <br><br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
