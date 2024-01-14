@@ -1,6 +1,7 @@
 <div align = "center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hyunwoo's%20Github!&height=150&fontSize=60&desc=K-HITTEN&descAlignY=75&descAlign=60" />	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-HITTEN&count_bg=%23BD8FD9&title_bg=%239E32E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-HITTEN&count_bg=%23BD8FD9&title_bg=%239E32E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-HITTEN&show_icons=true&theme=synthwave)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwk216)](https://solved.ac/hwk216)
