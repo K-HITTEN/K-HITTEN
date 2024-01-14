@@ -1,5 +1,6 @@
 <div align = "center">
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=29B6F6&text=Hyunwoo's Github!&height=150&fontSize=60&desc=K-HITTEN&descAlignY=75&descAlign=60" />	
+
 
 <!--
 **K-HITTEN/K-HITTEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,13 +24,13 @@ Link
 <a href="https://www.instagram.com/hwk216/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:hwk216216@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 <br>
-Language
+<h3>✨ Languages ✨<h3>
 <hr>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <br><br>
-Tech Stack
+<h3>📚 Tech Stack 📚</h3>
 <hr> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
