@@ -13,7 +13,7 @@
 <h3>📚 Languages 📚<h3>
 <hr>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <br><br>
 <h3>🛠 Tech Stack 🛠</h3>
