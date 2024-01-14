@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/hwk216/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:hwk216216@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 <br>
-[![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-HITTEN)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-HITTEN)]
 <h3>📚 Languages 📚<h3>
 <hr>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
