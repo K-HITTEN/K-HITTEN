@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hyunwoo's%20Github!&height=150&fontSize=60&desc=K-HITTEN&descAlignY=75&descAlign=60" />	
 
 [![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-HITTEN)](https://github.com/K-HITTEN/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-HITTEN&show_icons=true&theme=transparent)
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwk216)](https://solved.ac/hwk216)
   
 <h3>✨ Link ✨</h3>
