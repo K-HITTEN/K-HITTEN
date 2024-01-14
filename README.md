@@ -6,10 +6,7 @@
 <a href="https://north-carp-7d3.notion.site/Back-End-8085d433791841099b3f125c0c9775de" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/hwk216/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:hwk216216@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
-<br> <br> <br>
-  
-[![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-HITTEN)](https://github.com/K-HITTEN/github-readme-stats)
-  
+
 <h3>📚 Languages 📚<h3>
 <hr>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
