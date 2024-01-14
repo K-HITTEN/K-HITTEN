@@ -1,4 +1,5 @@
-<p style="text-align:center;">### Hi there 👋 </p>
+<div align = "center">
+### Hi there 👋
 
 <!--
 **K-HITTEN/K-HITTEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
 <hr>
-<p style="text-align:center;">Link</p>
+Link
 <hr>
-<p style="text-align:center;">Stack</p>
+Stack
 
+</div>
