@@ -1,5 +1,5 @@
 <div align = "center">
-###Hi there 👋
+### Hi there 👋
 
 <!--
 **K-HITTEN/K-HITTEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,6 @@ Link
 <hr>
 Stack
 <br><br>
+<img src="https://img.shields.io/badge/cplusplus-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
